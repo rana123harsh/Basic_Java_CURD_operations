@@ -1,0 +1,10 @@
+com\student\projectStudent\student\customExcepton\StudentNotFoundException.class
+com\student\projectStudent\ProjectStudentApplication.class
+com\student\projectStudent\student\repo\StudentRepositery.class
+com\student\projectStudent\student\service\StudentService.class
+com\student\projectStudent\student\studentdto\StudentDto.class
+com\student\projectStudent\student\service\StudentSeviceImpl.class
+com\student\projectStudent\student\controller\StudentController.class
+com\student\projectStudent\student\entity\Student.class
+com\student\projectStudent\student\customExcepton\NotInsertedException.class
+com\student\projectStudent\student\config\StudentConfiq.class
