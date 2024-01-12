@@ -23,6 +23,7 @@ add, update, fetch and delete student records.
 To get started with the ProjectStudent application, follow these steps:
 
 1. Clone the repository:
+   - https://github.com/rana123harsh/Basic_Java_CURD_operations.git
 
 
 2. Navigate to the project directory:
@@ -41,32 +42,28 @@ To get started with the ProjectStudent application, follow these steps:
 
 6. Access the application:
 
-   Open your web browser and go to `http://localhost:8080` to access the ProjectStudent application.
+   Open your web browser and go to `http://localhost:8081` to access the ProjectStudent application.
 
 ## API Endpoints
 
 The ProjectStudent application provides the following API endpoints:
 
-- `GET /students`: Retrieves a list of all students.
-- `GET /students/{id}`: Retrieves the details of a specific student.
-- `POST /students`: Creates a new student.
-- `PUT /students/{id}`: Updates the information of an existing student.
-- `DELETE /students/{id}`: Deletes a student.
+- `GET /getAll-student`: Retrieves a list of all students.
+- `GET /get-student/{student_id}`: Retrieves the details of a specific student.
+- `POST /addStudent`: Creates a new student.
+- `PUT /update-student/{student_id}`: Updates the information of an existing student.
+- `DELETE /delete-student/{id}`: Deletes a student.
 
 ## Contributing
 
 Contributions to the ProjectStudent application are welcome. If you find any issues or have suggestions for improvement,
 please feel free to open an issue or submit a pull request.
 
-## License
-
-The ProjectStudent application is open-source and is released under
-the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 
 If you have any questions or need further assistance, please
-contact [your-email@example.com](mailto:your-email@example.com).
+contact [harshprana234@gmail.com](mailto:harshprana234@gmail.com).
 
 ---
 
